@@ -26,11 +26,11 @@ As a user, I want to view the details of the legislators in my area by providing
 
 #### Advanced Details
 
-* Profile picture *<small>(Hint: This <a href='https://github.com/unitedstates/images' target='_blank'>Congressional Images Repo</a> hosts images listed by each legislator's `bioguide_id`)</small>*
-* Links to sponsored bills (including the bill ID and title if available) *<small>(Hint: Pass a legislator's `bioguide_id` to the `/bills?apikey=API_KEY&sponsor_id__in=` end-point)</small>*
+* Profile picture *(Hint: This <a href='https://github.com/unitedstates/images' target='_blank'>Congressional Images Repo</a> hosts images listed by each legislator's `bioguide_id`)*
+* Links to sponsored bills (including the bill ID and title if available) *(Hint: Pass a legislator's `bioguide_id` to the `/bills?apikey=API_KEY&sponsor_id__in=` end-point)*
 * Icons/Links to social media networks
 
 ## Example
-The following screenshot shows a snippet of displaying the details of legislators in the 30024 zip code.
+The screenshot below demonstrates a format for displaying the details of legislators in the 30024 zip code.
 
 ![Legislator Details](https://s3-us-west-2.amazonaws.com/jrdevsimages/repos/legislator_1.png)
