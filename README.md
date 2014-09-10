@@ -1,7 +1,7 @@
 # [Jr.DevJobs](http://www.jrdevjobs.com) Challenge: Legislator Lookup
 
 ## Introduction
-In this challenge you will use the [Sunlight Foundation's Congress API](https://sunlightlabs.github.io/congress/) to lookup United States legislators by zip code. For each legislator you will display the details defined in the [user story](#markdown-header-user-story).
+In this challenge you will use the <a href='https://sunlightlabs.github.io/congress/' target='_blank'>Sunlight Foundation's Congress API</a> to lookup United States legislators by zip code. For each legislator you will display the details defined in the [user story](#markdown-header-user-story).
 
 You are free to do this in any language or framework, however the sample is written in JavaScript.
 
