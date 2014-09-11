@@ -1,7 +1,7 @@
 # <a href='http://www.jrdevjobs.com' target='_blank'>Jr.DevJobs</a> Challenge: Legislator Lookup
 
 ## Introduction
-In this challenge you will use the <a href='https://sunlightlabs.github.io/congress/' target='_blank'>Sunlight Foundation's Congress API</a> to lookup United States legislators by zip code. For each legislator you will display the details defined in the [user story](#userstory).
+In this challenge you will create a webpage using the <a href='https://sunlightlabs.github.io/congress/' target='_blank'>Sunlight Foundation's Congress API</a> to lookup United States legislators by zip code. For each legislator you will display the details defined in the [user story](#userstory).
 
 You are free to do this in any language or framework, however the sample is written in JavaScript.
 
@@ -31,6 +31,6 @@ As a user, I want to view the details of the legislators in my area by providing
 * Icons/Links to social media networks
 
 ## Example
-The screenshot below demonstrates a format for displaying the details of legislators in the 30024 zip code.
+The screenshot below is an example of how to display the details of legislators in the 30024 zip code.
 
 ![Legislator Details](https://s3-us-west-2.amazonaws.com/jrdevsimages/repos/legislator_1.png)
